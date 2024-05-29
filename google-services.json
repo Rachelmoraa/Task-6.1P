@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583548676586",
+    "project_id": "personalizedlearningapp-b4913",
+    "storage_bucket": "personalizedlearningapp-b4913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583548676586:android:9f2a9b7ebe4b7d77c96a93",
+        "android_client_info": {
+          "package_name": "com.example.personalizedlearningapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKj6e5lJzMYtF3d3-0gYgr47haAj08Bgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
